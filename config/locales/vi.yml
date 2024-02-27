@@ -1,0 +1,31 @@
+vi:
+  hello: "Xin chào"
+  help:
+    title: "trợ giúp"
+    tutorial_intro: "Nhận trợ giúp về Ruby on Rails Tutorial tại"
+    tutorial_help_link: "Trang trợ giúp Rails Tutorial"
+    tutorial_intro: "Để nhận trợ giúp về ứng dụng này, xem"
+    tutorial_book_link: "Ruby on Rails Tutorial"
+    tutorial_book: "sách"
+  demo:
+    edit_zone: "Chỉnh sửa Zone"
+    new_zone: "Tạo mới Zone"
+  notices:
+    product_created: "Sản phẩm đã được tạo thành công."
+    product_update: "Sản phẩm đã được cập nhật thành công."
+    product_destroy: "Sản phẩm đã được xóa thành công."
+  products:
+    form:
+      show: 'Xem'
+      edit: 'Chỉnh sửa'
+      destroy: 'Xóa'
+      confirm_destroy: 'Bạn có chắc chắn?'
+    index:
+      title: "Sản phẩm"
+      name: "Tên sản phẩm"
+      new_product: "Tạo mới sản phẩm"
+      no_product: "Không tìm thấy sản phẩm."
+    edit:
+      title: "Chỉnh sửa sản phẩm"
+      show: "Xem sản phẩm này"
+      back: "Quay lại sản phẩm"
