@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 module ApplicationCable
-  class Connection < ActionCable::Connection::Base
+  class ConnectionTest < ActionCable::Connection::TestCase
   end
 end
