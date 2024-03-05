@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Controller responsible for handling actions related to DemoPartials.
 class DemoPartialsController < ApplicationController
   def new
     @zone = "Zone New action"
