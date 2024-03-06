@@ -16,10 +16,10 @@ en:
     product_destroy: "Product was successfully destroyed."
   products:
     form:
-      show: 'Show'
-      edit: 'Edit'
-      destroy: 'Destroy'
-      confirm_destroy: 'Are you sure?'
+      show: "Show"
+      edit: "Edit"
+      destroy: "Destroy"
+      confirm_destroy: "Are you sure?"
     index:
       title: "Products"
       name: "Products name"
