@@ -16,10 +16,10 @@ vi:
     product_destroy: "Sản phẩm đã được xóa thành công."
   products:
     form:
-      show: 'Xem'
-      edit: 'Chỉnh sửa'
-      destroy: 'Xóa'
-      confirm_destroy: 'Bạn có chắc chắn?'
+      show: "Xem"
+      edit: "Chỉnh sửa"
+      destroy: "Xóa"
+      confirm_destroy: "Bạn có chắc chắn?"
     index:
       title: "Sản phẩm"
       name: "Tên sản phẩm"
