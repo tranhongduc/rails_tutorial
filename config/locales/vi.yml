@@ -29,3 +29,21 @@ vi:
       title: "Chỉnh sửa sản phẩm"
       show: "Xem sản phẩm này"
       back: "Quay lại sản phẩm"
+  user:
+    new:
+      title: "Đăng ký"
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      password_confirmation: "Xác nhận mật khẩu"
+      summit: "Tạo tài khoản của tôi"
+      success_message: "Thành công! Bạn đã đăng ký thành công."
+      error_message: "Thất bại! Bạn đã đăng ký thất bại."
+    show:
+      title: "Người dùng"
+      name: "Tên"
+      email: "Email"
+      back: "Quay lại người dùng"
+  errors:
+    the_form_contains: "The form contains"
+    title: "error"
