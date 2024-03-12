@@ -1,4 +1,17 @@
 vi:
+  header:
+    home: "Trang chủ"
+    help: "Trợ giúp"
+    about: "Giới thiệu"
+    users: "Người dùng"
+    help: "Trợ giúp"
+    profile: "Hồ sơ"
+    account: "Tài khoản"
+    settings: "Cài đặt"
+    contact: "Liên hệ"
+    sign_up: "Đăng ký"
+    sign_in: "Đăng nhập"
+    sign_out: "Đăng xuất"
   hello: "Xin chào"
   help:
     title: "trợ giúp"
@@ -47,3 +60,16 @@ vi:
   errors:
     the_form_contains: "The form contains"
     title: "error"
+  sessions:
+    new:
+      title: "Đăng nhập"
+      email: "Email"
+      password: "Mật khẩu"
+      summit: "Đăng nhập"
+      remember_me: "Ghi nhớ tôi"
+      forgot_password: "Quên mật khẩu?"
+      new_user: "Người dùng mới?"
+      sign_up: "Đăng ký ngay!"
+      error_message: "Email/mật khẩu không hợp lệ"
+      success_message: "Đăng nhập thành công"
+      sign_out: "Đăng xuất"

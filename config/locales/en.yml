@@ -1,4 +1,17 @@
 en:
+  header:
+    home: "Home"
+    help: "Help"
+    about: "About"
+    users: "Users"
+    help: "Help"
+    profile: "Profile"
+    account: "Account"
+    settings: "Settings"
+    contact: "Contact"
+    sign_up: "Sign up"
+    sign_in: "Sign in"
+    sign_out: "Sign out"
   hello: "Hello world"
   help:
     title: "help"
@@ -47,3 +60,16 @@ en:
   errors:
       the_form_contains: "The form contains"
       title: "error"
+  sessions:
+    new:
+      title: "Sign in"
+      email: "Email"
+      password: "Password"
+      summit: "Sign in"
+      remember_me: "Remember me"
+      forgot_password: "Forgot password?"
+      new_user: "New user?"
+      sign_up: "Sign up now!"
+      error_message: "Invalid email/password combination"
+      success_message: "Welcome back!"
+      sign_out: "Sign out"
