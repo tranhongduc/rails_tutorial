@@ -16,7 +16,6 @@ class SessionsController < ApplicationController
 
   def destroy
     log_out
-    console.log("reset_session")
     redirect_to root_path, status: :see_other
   end
 

@@ -27,7 +27,6 @@ module SessionsHelper
   def log_out
     forget(current_user)
     reset_session
-    console.log("reset_session")
     @current_user = nil
   end
 

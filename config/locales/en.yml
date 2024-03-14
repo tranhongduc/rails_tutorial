@@ -57,6 +57,11 @@ en:
       name: "Name"
       email: "Email"
       back: "Back to Users"
+    edit:
+      title: "Edit User"
+      show: "Show this User"
+      back: "Back to Users"
+
   errors:
       the_form_contains: "The form contains"
       title: "error"

@@ -1,4 +1,5 @@
 <% if @user.errors.any? %>
+    {console.log("@user.errors")}
     <div id="error_explanation">
         <div class="alert alert-danger">
             <%= t("error.the_form_contains") %>

@@ -57,6 +57,11 @@ vi:
       name: "Tên"
       email: "Email"
       back: "Quay lại người dùng"
+    edit:
+      title: "Chỉnh sửa người dùng"
+      show: "Xem người dùng này"
+      back: "Quay lại người dùng"
+
   errors:
     the_form_contains: "The form contains"
     title: "error"

@@ -12,6 +12,6 @@ Rails.application.routes.draw do
   get "static_pages/help"
   get "/signup", to: "users#new"
   post "/signup", to: "users#create"
-  resources :users, only: %i(new create show)
+  resources :users, only: [:index, :show, :create, :edit, :update, :destroy]
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
