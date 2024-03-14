@@ -15,7 +15,7 @@ textarea {
 .center h1 {
     margin-bottom: 10px;
 }
-    
+
 /* header */
 .navbar{
     background-color: black;
@@ -77,4 +77,14 @@ input, textarea, select, .uneditable-input {
 }
 input {
     height: auto !important;
+}
+
+/* Dropdown menu */
+.dropdown-menu.active {
+    display: block;
+    button {
+        border: none;
+        width: 100%;
+        background-color: white;
+    }
 }
