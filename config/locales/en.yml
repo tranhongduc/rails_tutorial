@@ -73,3 +73,5 @@ en:
       error_message: "Invalid email/password combination"
       success_message: "Welcome back!"
       sign_out: "Sign out"
+      remember_me: "Remember me"
+      remember_me_title: "Remember me on this computer"
